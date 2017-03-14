@@ -1,0 +1,58 @@
+body {
+  background-color: #3e3127; }
+
+.card-group {
+  margin-top: 4rem;
+  margin-bottom: 4rem; }
+  .card-group .card {
+    text-align: center;
+    max-width: 225px;
+    min-width: 225px; }
+    .card-group .card .card-block {
+      padding: 0.25rem; }
+    .card-group .card .card-img-top {
+      max-height: 100px;
+      max-width: auto; }
+    .card-group .card .card-footer {
+      background-color: #363636;
+      padding-left: 6px;
+      padding-right: 6px; }
+      .card-group .card .card-footer .dropdown-toggle-split {
+        padding-bottom: 0rem;
+        padding-top: 0rem; }
+  .card-group .btn {
+    border-radius: 25px; }
+  .card-group .container {
+    padding-left: 0rem;
+    padding-right: 0rem; }
+
+/*.navbar
+ * padding-top: 0px
+ * padding-bottom: 0px
+ * background-color: #e07c29
+ *
+ * .navbar-brand
+ * 	color: #fff
+ * 	.fa
+ * 	color: #ff4223
+ * 	font-size: 1.8rem
+ * .navbar-fixed-bottom
+ * 	color: #fff
+ * .nav-item
+ * 	text-align: center
+ * 	.fa
+ * 		color: #fff
+ * 		font-weight: bold
+ * 		font-size: 1rem
+ * 	.nav-link
+ *
+ * 		border-right-style: solid
+ * 		border-right-color: #fff
+ * 		border-right-width: 1px
+ * 		text-transform: uppercase
+ * 		text-align: center
+ * 		color: #fff
+ * 		margin: 0px
+ */
+
+/*# sourceMappingURL=deli.css.map */
