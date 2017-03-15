@@ -21,8 +21,8 @@ body {
   margin-bottom: 4rem; }
   .card-group .card {
     text-align: center;
-    max-width: 225px;
-    min-width: 225px; }
+    max-width: 220px;
+    min-width: 220px; }
     .card-group .card .card-block {
       padding: 0.25rem;
       height: 0.1rem;
