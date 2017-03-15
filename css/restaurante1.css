@@ -1,12 +1,20 @@
 body {
   background-color: #3e3127; }
 
-.fa {
+.navbar .nav-link {
+  color: red;
+  font-size: 1.1rem;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 0.5rem;
+  transition: all 0.4s ease;
+  border-radius: 5px 5px 5px 5px; }
+.navbar .nav-link:hover {
+  color: white;
+  background-color: #e76e2d; }
+.navbar .fa {
   color: #e76e2d;
-  font-size: 4rem; }
-  .fa .fa-code-fork {
-    color: #e76e2d;
-    font-size: 4rem; }
+  font-size: 2rem; }
 
 .card-group {
   margin-top: 4rem;
@@ -33,5 +41,8 @@ body {
 
 .btn {
   border-radius: 25px; }
+
+.pagination .page-link {
+  color: #e76e2d; }
 
 /*# sourceMappingURL=restaurante1.css.map */
