@@ -35,6 +35,8 @@ body {
       color: #fff;
       padding-left: 6px;
       padding-right: 6px; }
+      .card-group .card .card-footer h4 {
+        font-size: 1.2rem; }
       .card-group .card .card-footer .dropdown-toggle-split {
         padding-bottom: 0rem;
         padding-top: 0rem; }
@@ -47,5 +49,24 @@ body {
 
 .modal {
   padding-top: 3rem; }
+  .modal .modal-content {
+    border-radius: 0rem;
+    background-color: rgba(253, 253, 253, 0.8); }
+    .modal .modal-content .card-deck {
+      border-color: none; }
+      .modal .modal-content .card-deck .card {
+        border-radius: 0px;
+        border-color: rgba(253, 253, 253, 0);
+        background-color: rgba(253, 253, 253, 0); }
+        .modal .modal-content .card-deck .card .card-block {
+          border-color: none;
+          padding: 0.8rem; }
+          .modal .modal-content .card-deck .card .card-block .card-title {
+            font-size: 1.3rem; }
+          .modal .modal-content .card-deck .card .card-block .btn {
+            border-radius: 0px;
+            padding-top: 1rem;
+            min-width: 100%;
+            max-width: 100%; }
 
 /*# sourceMappingURL=restaurante1.css.map */
