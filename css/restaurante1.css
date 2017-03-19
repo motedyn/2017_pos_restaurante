@@ -8,13 +8,18 @@ body {
   text-transform: uppercase;
   padding: 0.5rem;
   transition: all 0.4s ease;
-  border-radius: 5px 5px 5px 5px; }
+  border-radius: 25px; }
 .navbar .nav-link:hover {
-  color: white;
-  background-color: #e76e2d; }
+  color: #fff;
+  background-color: #e76e2d;
+  font-size: 1.5rem;
+  border-radius: 25px; }
 .navbar .fa {
   color: #e76e2d;
   font-size: 2rem; }
+
+.form-inline {
+  padding-left: 35%; }
 
 .card-group {
   margin-top: 5rem;
@@ -45,7 +50,13 @@ body {
   border-radius: 25px; }
 
 .pagination .page-link {
-  color: #e76e2d; }
+  color: #fff;
+  background-color: #e76e2d;
+  border-color: #e76e2d; }
+.pagination .page-link:hover {
+  background-color: #f5962c;
+  border-color: #f5962c;
+  transition: all 0.6s ease; }
 
 .modal {
   transition: all 0.4s ease;
