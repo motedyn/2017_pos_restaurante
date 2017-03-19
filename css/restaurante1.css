@@ -12,14 +12,15 @@ body {
 .navbar .nav-link:hover {
   color: #fff;
   background-color: #e76e2d;
-  font-size: 1.5rem;
-  border-radius: 25px; }
+  font-size: 1.2rem;
+  border-radius: 25px;
+  text-decoration: underline; }
 .navbar .fa {
   color: #e76e2d;
   font-size: 2rem; }
 
 .form-inline {
-  padding-left: 35%; }
+  padding-left: 30%; }
 
 .card-group {
   margin-top: 5rem;
